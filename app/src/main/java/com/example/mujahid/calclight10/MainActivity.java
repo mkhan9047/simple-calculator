@@ -12,6 +12,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import org.mariuszgromada.math.mxparser.Expression;
+
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
